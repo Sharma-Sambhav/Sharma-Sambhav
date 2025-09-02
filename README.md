@@ -103,14 +103,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satendrakaushik&" alt="github-streak" />
 </p>
 
----
-
-## ☕ Support My Work  
-<p><a href="https://www.buymeacoffee.com/satendraka6"> 
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy-me-coffee" />
-</a></p>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="60" height="60" />
