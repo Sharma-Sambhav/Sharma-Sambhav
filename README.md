@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi 👋, I'm Satendra Kaushik</h1>
+<h1 align="center">Hi 👋, I'm Sambhav Sharma</h1>
 <h3 align="center">Crafting Code & Building Dreams | Full Stack Developer | Tech Explorer 💻✨</h3>
 
 <div align="center">
