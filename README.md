@@ -1,110 +1,83 @@
+<!-- Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi 👋, I'm Sambhav Sharma</h1>
-<h3 align="center">Crafting Code & Building Dreams | Full Stack Developer | Tech Explorer 💻✨</h3>
+<h1 align="center">Hey 👋, I'm Sambhav Sharma</h1>
+<h3 align="center">✨ Full Stack Developer | AI Explorer | Problem Solver ✨</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=36BCF7FF&random=false&width=435&lines=Full+Stack+Developer;Problem+Solver;Continuous+Learner;Tech+Enthusiast" alt="Typing SVG" />
-</div>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=satendrakaushik&label=Profile%20views&color=0e75b6&style=flat" alt="satendrakaushik" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=3CB371&center=true&vCenter=true&width=600&lines=Crafting+Code+%F0%9F%92%BB;Building+Scalable+Systems+%F0%9F%9A%80;Exploring+AI+%26+Cloud+%E2%9C%A8;Mentor+%26+Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently exploring **AI Agents, Cloud Computing, and System Design**  
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/satendra-kaushik)  
-- 📫 Reach me at **satendrakaushik2002@gmail.com**  
-- ⚡ Fun fact: *Turning Ideas into Reality 🚀 | Tea Lover ☕ | Code Dreamer ✨*  
+## 🌟 About Me  
+💡 Passionate about **turning ideas into reality** through code.  
+🌱 Currently diving deeper into **AI Agents, Cloud Computing, and System Design**.  
+👨‍💻 Check out my work on [GitHub](https://github.com/satendrakaushik).  
+📫 Reach me at: **satendrakaushik2002@gmail.com**  
+⚡ Fun fact: *Fueled by ☕ + 🚀 = Infinite Code Power!*  
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/satendra-kaushik" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="mailto:satendrakaushik2002@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/>
-  </a>
-  <a href="https://github.com/satendrakaushik" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
-  </a>
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/satendra-kaushik"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
+  <a href="mailto:satendrakaushik2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
+  <a href="https://github.com/satendrakaushik"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
+  <a href="https://medium.com/"><img src="https://skillicons.dev/icons?i=md" height="50"></a>
 </p>
 
 ---
 
-## 💻 Tech Stack  
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,nextjs" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Platforms</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,tailwind,git,vercel,postman,docker" />
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,react,redux,nodejs,express,nextjs,mongodb,tailwind,git,vercel,postman,docker&perline=8" />
+</p>
 
 ---
 
 ## 🏆 Achievements  
-- 🥇 Multiple Hackathon Winner (Projects like **NagarSarthi, ParkEase, GovSync, BusNow**)  
-- 📌 Active Contributor on **Open Source & Developer Communities**  
-- 🎯 Built scalable projects using **MERN, Next.js, AI, and Cloud**  
-- ✍️ Technical writer & mentor for juniors in **DSA & Development**  
+- 🥇 **Hackathon Winner** – Projects: *NagarSarthi, ParkEase, GovSync, BusNow*  
+- 🌍 Contributor in **Open Source & Dev Communities**  
+- 📈 Built **scalable apps** using *MERN, Next.js, AI, and Cloud*  
+- ✍️ Mentor for **DSA & Full-Stack Development**  
 
 ---
 
-## 📂 Featured Projects  
-- 🔗 **NagarSarthi** – Smart City Utility Platform  
-- 🚖 **ParkEase** – Smart Parking Management  
-- 🏛 **GovSync** – Governance Transparency Portal  
-- 🚌 **BusNow** – Real-time Bus Tracking  
+## 🚀 Featured Projects  
+✨ **NagarSarthi** – Smart City Utility Platform  
+🚖 **ParkEase** – Intelligent Parking System  
+🏛 **GovSync** – Governance Transparency Portal  
+🚌 **BusNow** – Real-time Bus Tracking  
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/satendrakaushik?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20More-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/🔍%20View%20More%20Projects-000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 ## ✍️ Blogs & Writings  
-- 📌 [Medium](https://medium.com/) (Tech insights & tutorials)  
-- 📝 Writing about **AI, Full Stack Development, and Career Growth**  
+📝 Sharing insights on **AI, Full Stack Development & Career Growth**  
+👉 Find me on [Medium](https://medium.com/)  
 
 ---
 
-## 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satendrakaushik&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
+## 📊 GitHub Analytics  
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satendrakaushik&show_icons=true&locale=en" alt="github-stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satendrakaushik&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satendrakaushik&layout=compact&theme=radical" alt="Top Langs" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satendrakaushik&" alt="github-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=satendrakaushik&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="60" height="60" />
-  <h3>Thanks for visiting my profile! Let's connect & build something amazing together 😊</h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" width="50" />
+  <h3>Thanks for stopping by! Let’s connect & build something impactful 🚀</h3>
 </div>
